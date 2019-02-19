@@ -1,0 +1,71 @@
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\bin\Debug\NaBeSoft - Sistema de Facturacion.exe.config
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAltaCliente.resources
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmConsultaCliente.resources
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmPrincipal.resources
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.Properties.Resources.resources
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.csproj.GenerateResource.Cache
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\bin\Debug\NaBeSoft - Sistema de Facturacion.exe
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\bin\Debug\NaBeSoft - Sistema de Facturacion.pdb
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.exe
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.pdb
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmEditarCliente.resources
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmListarCliente.resources
+C:\Users\FedericoJavier\Source\Workspaces\Área de trabajo\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAltaArticulo.resources
+C:\Users\FedericoJavier\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\bin\Debug\NaBeSoft - Sistema de Facturacion.exe.config
+C:\Users\FedericoJavier\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.exe
+C:\Users\FedericoJavier\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.pdb
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\bin\Debug\NaBeSoft - Sistema de Facturacion.exe.config
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.exe
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.pdb
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\bin\Debug\NaBeSoft - Sistema de Facturacion.exe
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\bin\Debug\NaBeSoft - Sistema de Facturacion.pdb
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAltaArticulo.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAltaCliente.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmConsultaCliente.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmEditarCliente.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmListarCliente.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmPrincipal.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.Properties.Resources.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.csproj.GenerateResource.Cache
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmConsultaArticulo.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmEditarArticulo.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmListarArticulo.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAltaFactura.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAltaRemito.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmConsultaRemito.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmConsultarFactura.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmModificaRemito.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmCreditos.resources
+C:\Users\Netversity\Desktop\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAcercaDe.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\bin\Debug\NaBeSoft - Sistema de Facturacion.exe.config
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.exe
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.pdb
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\bin\Debug\NaBeSoft - Sistema de Facturacion.exe
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\bin\Debug\NaBeSoft - Sistema de Facturacion.pdb
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAcercaDe.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAltaArticulo.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAltaCliente.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAltaFactura.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAltaRemito.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmConsultaArticulo.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmConsultaCliente.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmConsultaRemito.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmConsultarFactura.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmCreditos.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmEditarArticulo.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmEditarCliente.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmListarArticulo.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmListarCliente.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmModificaRemito.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmPrincipal.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.Properties.Resources.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft - Sistema de Facturacion.csproj.GenerateResource.Cache
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAltaPedido.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmListarPedidos.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmReporteVentas.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmRanking.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmModificarStock.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmListarFactura.resources
+D:\NaBeSoft - Sistema de Facturacion\NaBeSoft - Sistema de Facturacion\obj\Debug\NaBeSoft___Sistema_de_Facturacion.frmAltaPago.resources
